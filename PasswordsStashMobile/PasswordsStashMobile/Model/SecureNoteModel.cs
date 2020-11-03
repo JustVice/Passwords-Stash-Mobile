@@ -1,10 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using SQLite;
 
 namespace PasswordsStashMobile.Model
 {
-    class SecureNoteModel
+    [Table("SecureNote")]
+    public class SecureNoteModel
     {
+        [PrimaryKey][AutoIncrement]
+        public int SecureNoteId { get; set; }
+        public string Name { get; set; }
+        public string Description { get; set; }
+        public string Favorite { get; set; }
     }
 }

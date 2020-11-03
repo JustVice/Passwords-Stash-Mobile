@@ -1,10 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using SQLite;
 
 namespace PasswordsStashMobile.Model
 {
-    class LogModel
+    [Table("Log")]
+    public class LogModel
     {
+        [PrimaryKey][AutoIncrement]
+        public int LogId { get; set; }
+        public string Type { get; set; }
+        public string Date { get; set; }
+        public string Description { get; set; }
     }
 }

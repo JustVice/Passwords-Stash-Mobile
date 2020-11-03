@@ -1,9 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "w4VLlItXUwfPalyoz10H8na+tUIwyUI7ZP2fWwwZdPYqRsseKu98PRKbU4P+EYtOcm1SoeWD9CwWsXetV0/zdg==",
+  "dgSpecHash": "JcWhkGZhvvuBXcr+dzclSloBYzT1417BiURR7QyTdJQpmX52JuVJ9TQTDgAA7tAFAE4+qb8bo4QGInSNhjaM/w==",
   "success": true,
   "projectFilePath": "E:\\Github Repositories\\Passwords-Stash-Mobile\\PasswordsStashMobile\\PasswordsStashMobile.iOS\\PasswordsStashMobile.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\VICE\\.nuget\\packages\\sqlite-net-pcl\\1.7.335\\sqlite-net-pcl.1.7.335.nupkg.sha512",
+    "C:\\Users\\VICE\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.3\\sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",
+    "C:\\Users\\VICE\\.nuget\\packages\\sqlitepclraw.core\\2.0.3\\sqlitepclraw.core.2.0.3.nupkg.sha512",
+    "C:\\Users\\VICE\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.3\\sqlitepclraw.provider.dynamic_cdecl.2.0.3.nupkg.sha512",
+    "C:\\Users\\VICE\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\VICE\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\VICE\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "E:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Users\\VICE\\.nuget\\packages\\xamarin.forms\\4.8.0.1560\\xamarin.forms.4.8.0.1560.nupkg.sha512"
   ],
